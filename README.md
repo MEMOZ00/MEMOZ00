@@ -25,12 +25,12 @@
   
   ![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=black)
   
-  **Team Project** 
+  **Team Project** :notebook_with_decorative_cover:
   
   | 프로젝트명 | 미리보기 |
   | :---: | --- |
-  | Gamestore</br><a href="https://github.com/wnalsals123/GameStore_TypeScript"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/44563747/192572414-8a338adf-b9a3-41b9-8c41-c9525ad66712.png" alt="gamestore" width='500'></img></br>[`호스팅`](http://itwillbs7.cafe24.com/teamProject/main.do/) Hibook 중고책 판매 사이트 |
-  | Resume</br><a href="https://github.com/wnalsals123/Resume_Project"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/44563747/192572418-c270d9ca-b559-46cc-833f-06fded77c92c.png" alt="resume" width='500'></img></br>[`호스`](https://jmj-resume-page.netlify.app) 간단한 이력서 작성 및 편집 웹페이지 |
+  | Gamestore</br><a href="https://github.com/wnalsals123/GameStore_TypeScript"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/44563747/192572414-8a338adf-b9a3-41b9-8c41-c9525ad66712.png" alt="gamestore" width='500'></img></br>[`호스팅`](http://itwillbs7.cafe24.com/teamProject/main.do) Hibook 중고책 판매 사이트 |
+  | Resume</br><a href="https://github.com/wnalsals123/Resume_Project"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/44563747/192572418-c270d9ca-b559-46cc-833f-06fded77c92c.png" alt="resume" width='500'></img></br>[`호스팅`](http://itwillbs21.cafe24.com/mesteam4/home) 의약품 MES 사이트 |
   </div>
 
 <!--
