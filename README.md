@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient=#E8D9FF&height=120&section=header&text=MEMOZ00%20Github&fontColor=#A6A6A6&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=MEMOZ00%20Github&fontColor=#A6A6A6&fontSize=60)
 
 <div align=center>
   <h2>Tech stack:fireworks:</h2>
