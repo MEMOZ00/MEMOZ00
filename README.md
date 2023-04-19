@@ -16,7 +16,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
   ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=flat&logo=JQurey&logoColor=black)
   <br>
-  ![Java](https://img.shields.io/badge/-Java-0769AD?style=flat&logo=JQurey&logoColor=black)
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  
   **Studying**:pencil2:
   
 </div>
