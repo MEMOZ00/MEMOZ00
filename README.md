@@ -20,7 +20,6 @@
   ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![oracle](https://img.shields.io/badge/-oracle-F80000?style=flat-square&logo=oracle&logoColor=black)
   ![amazonaws](https://img.shields.io/badge/-amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-  ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
   
   **Studying**:pencil2:
   
