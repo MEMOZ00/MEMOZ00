@@ -23,7 +23,7 @@
   
   **Studying**:pencil2:
   
-  ![nodedotjs](https://img.shields.io/badge/-nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=black)
+  ![nodedotjs](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=black)
   
 </div>
 
