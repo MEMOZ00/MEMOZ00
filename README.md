@@ -14,9 +14,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=HTML5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-  ![JQurey](https://img.shields.io/badge/-JQurey-#0769AD?style=flat&logo=JQurey&logoColor=black)
+  ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=flat&logo=JQurey&logoColor=black)
   <br>
-  
+  ![Java](https://img.shields.io/badge/-Java-0769AD?style=flat&logo=JQurey&logoColor=black)
   **Studying**:pencil2:
   
 </div>
