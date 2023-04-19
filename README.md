@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=160&section=header&text=MEMOZ00%20Github&fontColor=#fff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&section=header&text=MEMOZ00%20Github&fontColor=#fff&fontSize=60)
 
 <div align=center>
   안녕하세요. 백엔드 개발자 주효진입니다.
