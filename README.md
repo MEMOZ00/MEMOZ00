@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=#D1B2FF&height=100&section=header&text=MEMOZ00%20Github&fontColor=#A6A6A6&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=MEMOZ00%20Github&fontColor=#A6A6A6&fontSize=60)
 
 <div align=center>
   <h2>Tech stack</h2>
