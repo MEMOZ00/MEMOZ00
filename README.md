@@ -1,6 +1,6 @@
- <div align=center>
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=#D1B2FF&height=100&section=header&text=MEMOZ00%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=#D1B2FF&height=100&section=header&text=MEMOZ00%20Github&fontSize=60)
 
+<div align=center>
   <h2>Tech stack</h2>
   <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 </div>
