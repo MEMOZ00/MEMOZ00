@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=160&section=header&text=MEMOZ00%20Github&fontColor=#fff&fontSize=60)
 
 <div align=center>
-  <h2>Tech stack:fireworks:</h2>
+  안녕하세요. 백엔드 개발자 주효진입니다.
+  <h2></h2>
+  Tech stack:fireworks:
   <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 </div>
 
