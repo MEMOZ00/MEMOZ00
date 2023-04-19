@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=MEMOZ00%20Github&fontSize=60)
+ <div align=center>
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=#D1B2FF&height=100&section=header&text=MEMOZ00%20Github&fontSize=60)
 
+  <h2>Tech stack</h2>
+  <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
+</div>
 
 <!--
 **MEMOZ00/MEMOZ00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
