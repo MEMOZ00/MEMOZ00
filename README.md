@@ -3,13 +3,13 @@
 <div align=center>
 
   안녕하세요. 백엔드 개발자 주효진입니다.<br>
-  🌱 I’m currently learning.
+  U+2728 I’m currently learning. U+2728
   <h2></h2>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEMOZ00&langs_count=8)](https://github.com/MEMOZ00/github-readme-stats)
   
   Tech stack:fireworks:
   
-  learning:pencil2:
+  Studying:pencil2:
   
 </div>
 
