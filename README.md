@@ -17,6 +17,7 @@
   ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=flat-square&logo=jquery&logoColor=black)
   <br>
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=black)
+  ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
   
   **Studying**:pencil2:
   
