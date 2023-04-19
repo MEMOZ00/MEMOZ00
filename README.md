@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient=#E8D9FF&height=120&section=header&text=MEMOZ00%20Github&fontColor=#A6A6A6&fontSize=60)
 
 <div align=center>
-  <h2>Tech stack</h2>
+  <h2>Tech stack:fireworks:</h2>
   <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 </div>
 
