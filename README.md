@@ -9,7 +9,7 @@
   <h2></h2>
   <br>
   
-  **Tech stack** :fireworks:
+  **Tech stack** 📚
   
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=HTML5&logoColor=white)
@@ -21,11 +21,11 @@
   ![oracle](https://img.shields.io/badge/-oracle-F80000?style=flat-square&logo=oracle&logoColor=black)
   ![amazonaws](https://img.shields.io/badge/-amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
   
-  **Studying** :pencil2:
+  **Studying** ✏
   
   ![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=black)
   
-  **Team Project** :notebook_with_decorative_cover:
+  **Team Project** 📑
   
   | 프로젝트명 | 미리보기 |
   | :---: | --- |
