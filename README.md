@@ -2,6 +2,7 @@
 
 <div align=center>
   안녕하세요. 백엔드 개발자 주효진입니다.
+  🌱 I’m currently learning.
   <h2></h2>
   Tech stack:fireworks:
   <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
