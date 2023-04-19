@@ -22,6 +22,7 @@
   ![amazonaws](https://img.shields.io/badge/-amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
   
   **Studying**:pencil2:
+  ![nodedotjs](https://img.shields.io/badge/-nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=black)
   
 </div>
 
