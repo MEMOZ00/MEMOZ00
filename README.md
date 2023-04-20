@@ -21,12 +21,16 @@
   ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=black)
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
   
+  <br>
+  
   **Studying** ✏
   
   ![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=black)
   
-  **Team Project** 📑
+  <br>
   
+  **Team Project** 📑  
+  (깃허브 아이콘 클릭 시 코드 상세 페이지로 이동)
   | 프로젝트명 | 미리보기 |
   | :---: | --- |
   | Hibook</br><a href="https://github.com/MEMOZ00/Project_team2"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/124169002/233026279-87accf62-07ef-4c4a-bcfd-d70e9fc213c2.PNG" alt="Hibook" width='500'></img></br>[`호스팅`](http://itwillbs7.cafe24.com/teamProject/main.do) Hibook 중고책 거래 사이트 |
