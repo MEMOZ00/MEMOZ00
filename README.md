@@ -25,7 +25,8 @@
   
   **Studying** ✏
   
-  ![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=black)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=black)
   
   <br>
   
