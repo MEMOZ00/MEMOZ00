@@ -34,8 +34,8 @@
   (깃허브 아이콘 클릭 시 프로젝트 상세 페이지로 이동)
   | 프로젝트명 | 미리보기 |
   | :---: | --- |
-  | Hibook</br><a href="https://github.com/MEMOZ00/Project_team2"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/124169002/233026279-87accf62-07ef-4c4a-bcfd-d70e9fc213c2.PNG" alt="Hibook" width='500'></img></br>[`호스팅`](http://itwillbs7.cafe24.com/teamProject/main.do) Hibook 중고책 거래 사이트 |
-  | MEDI-FAC</br><a href="https://github.com/MEMOZ00/mes_team4"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/124169002/233026353-161ed5d4-7046-41ec-b57f-f6bca47b350f.PNG" alt="MEDI-FAC" width='500'></img></br>[`호스팅`](http://itwillbs21.cafe24.com/mesteam4/home) MEDI-FAC 의약품 MES 사이트 |
+  | Hibook</br><a href="https://github.com/MEMOZ00/Project_team2"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/124169002/233026279-87accf62-07ef-4c4a-bcfd-d70e9fc213c2.PNG" alt="Hibook" width='500'></img></br>[`서비스`](http://itwillbs7.cafe24.com/teamProject/main.do) Hibook 중고책 거래 사이트 |
+  | MEDI-FAC</br><a href="https://github.com/MEMOZ00/mes_team4"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a> | <img src="https://user-images.githubusercontent.com/124169002/233026353-161ed5d4-7046-41ec-b57f-f6bca47b350f.PNG" alt="MEDI-FAC" width='500'></img></br>[`서비스`](http://itwillbs21.cafe24.com/mesteam4/home) MEDI-FAC 의약품 MES 사이트 |
   
 </div>
 
