@@ -2,9 +2,6 @@
 
 <div align=center>
   
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEMOZ00&layout=compact)](https://github.com/MEMOZ00/github-readme-stats)
-  <br>
   <h2></h2>
   <br>
   
