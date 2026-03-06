@@ -2,7 +2,6 @@
 
 <div align=center>
   
-  안녕하세요. 백엔드 개발자 주효진입니다.  
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEMOZ00&layout=compact)](https://github.com/MEMOZ00/github-readme-stats)
   <br>
